@@ -1,0 +1,4 @@
+npm install -g create-react-app
+npx create-react-app TODOLIST
+cd TODOLIST
+npm start
